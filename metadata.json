@@ -1,0 +1,6 @@
+{
+  "name": "DocuVault - Laravel File Versioning & Monitoring System",
+  "description": "Enterprise File Versioning and Monitoring System in Laravel & PostgreSQL with SHA-256 Hashing, Recursive Scanning, Binary Storage, Diff Engine, REST API, and Integrated Entity-TechEnhance Scholarly Studios (Books, Manuscripts, Audio-Visual Transcripts).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
